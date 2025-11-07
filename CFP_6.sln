@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaEscape_WF", "SalaEscape_WF\SalaEscape_WF.csproj", "{A08E70A4-8656-4656-9F98-0DF082F42236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaEscape_Clases", "SalaEscape_Clases\SalaEscape_Clases.csproj", "{65B2921A-3AE6-4D9F-8175-FE3B4A65D028}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A08E70A4-8656-4656-9F98-0DF082F42236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A08E70A4-8656-4656-9F98-0DF082F42236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A08E70A4-8656-4656-9F98-0DF082F42236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A08E70A4-8656-4656-9F98-0DF082F42236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65B2921A-3AE6-4D9F-8175-FE3B4A65D028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B2921A-3AE6-4D9F-8175-FE3B4A65D028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65B2921A-3AE6-4D9F-8175-FE3B4A65D028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65B2921A-3AE6-4D9F-8175-FE3B4A65D028}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CD14F40-257E-457A-8B71-B892EAF45B6A}
+	EndGlobalSection
+EndGlobal
