@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaEscape_Clases", "SalaEs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final1_WF", "Final1_WF\Final1_WF.csproj", "{9B46FF15-1D21-45B1-87C9-EC0A107A6EA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final2_WF", "Final2_WF\Final2_WF.csproj", "{D0C205A7-D8CB-4AA3-BE79-F6CD383936E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9B46FF15-1D21-45B1-87C9-EC0A107A6EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B46FF15-1D21-45B1-87C9-EC0A107A6EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B46FF15-1D21-45B1-87C9-EC0A107A6EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0C205A7-D8CB-4AA3-BE79-F6CD383936E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C205A7-D8CB-4AA3-BE79-F6CD383936E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C205A7-D8CB-4AA3-BE79-F6CD383936E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C205A7-D8CB-4AA3-BE79-F6CD383936E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
