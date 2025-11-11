@@ -13,7 +13,10 @@
         private int id;
         private bool recibido;
 
-        // Constructor por defecto
+
+        //Constructores
+
+        //por defecto
         public Correo()
         {
             this.direccion = string.Empty;
@@ -22,16 +25,16 @@
             this.fecha = DateTime.Now;
             this.leido = false;
             this.id = 0;
-            this.recibido = true; // Por defecto es recibido
+            this.recibido = true; // por defecto es recibido
         }
 
-        // Constructor con parámetros
-        public Correo(string direccion, string asunto, string cuerpo, int id, bool recibido = true)
+        //con parámetros
+        public Correo(string direccion, string asunto, string cuerpo, int id, bool recibido = true, DateTime fecha)
         {
             this.direccion = direccion;
             this.asunto = asunto;
             this.cuerpo = cuerpo;
-            this.fecha = DateTime.Now;
+            this.fecha = fecha;
             this.leido = false;
             this.id = id;
             this.recibido = recibido;
